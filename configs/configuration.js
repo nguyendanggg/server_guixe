@@ -1,5 +1,5 @@
 module.exports= {
-  DB_URL: "mongodb+srv://root:123@cluster0.70cd3.mongodb.net/haidang_db_guixe1?retryWrites=true&w=majority",
+  DB_URL: "mongodb+srv://haidang:123@cluster0.k876llq.mongodb.net/db_guixe?retryWrites=true&w=majority",
   USER_ADMIN: {
     username: "admin",
     password: "admin",
